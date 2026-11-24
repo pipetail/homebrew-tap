@@ -1,9 +1,9 @@
 class PipetailCloud < Formula
   desc "Command-line client and MCP server for pipetail.cloud"
   homepage "https://pipetail.cloud"
-  url "https://github.com/pipetail/homebrew-tap/releases/download/v0.1.8/pipetail-cloud.mjs"
-  version "0.1.8"
-  sha256 "efdbc4f0645b082845a81518d72288abee306e34e043037bd965beb1afce7e1e"
+  url "https://github.com/pipetail/homebrew-tap/releases/download/v0.1.9/pipetail-cloud.mjs"
+  version "0.1.9"
+  sha256 "8e4a19c5ea05f369f72429280c52c8b21b9ea8e5bde3df9bc2faf91c0c9f900e"
 
   depends_on "node"
 
